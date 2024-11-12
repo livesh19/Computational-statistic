@@ -1,1 +1,1 @@
-# Computational-statistic
+Computatinal staistics record
